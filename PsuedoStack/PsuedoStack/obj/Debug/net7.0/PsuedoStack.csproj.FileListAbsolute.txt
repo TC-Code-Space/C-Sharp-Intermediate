@@ -1,0 +1,14 @@
+C:\Users\tcrawford\source\repos\C Sharp Intermediate\PsuedoStack\PsuedoStack\bin\Debug\net7.0\PsuedoStack.exe
+C:\Users\tcrawford\source\repos\C Sharp Intermediate\PsuedoStack\PsuedoStack\bin\Debug\net7.0\PsuedoStack.deps.json
+C:\Users\tcrawford\source\repos\C Sharp Intermediate\PsuedoStack\PsuedoStack\bin\Debug\net7.0\PsuedoStack.runtimeconfig.json
+C:\Users\tcrawford\source\repos\C Sharp Intermediate\PsuedoStack\PsuedoStack\bin\Debug\net7.0\PsuedoStack.dll
+C:\Users\tcrawford\source\repos\C Sharp Intermediate\PsuedoStack\PsuedoStack\bin\Debug\net7.0\PsuedoStack.pdb
+C:\Users\tcrawford\source\repos\C Sharp Intermediate\PsuedoStack\PsuedoStack\obj\Debug\net7.0\PsuedoStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tcrawford\source\repos\C Sharp Intermediate\PsuedoStack\PsuedoStack\obj\Debug\net7.0\PsuedoStack.AssemblyInfoInputs.cache
+C:\Users\tcrawford\source\repos\C Sharp Intermediate\PsuedoStack\PsuedoStack\obj\Debug\net7.0\PsuedoStack.AssemblyInfo.cs
+C:\Users\tcrawford\source\repos\C Sharp Intermediate\PsuedoStack\PsuedoStack\obj\Debug\net7.0\PsuedoStack.csproj.CoreCompileInputs.cache
+C:\Users\tcrawford\source\repos\C Sharp Intermediate\PsuedoStack\PsuedoStack\obj\Debug\net7.0\PsuedoStack.dll
+C:\Users\tcrawford\source\repos\C Sharp Intermediate\PsuedoStack\PsuedoStack\obj\Debug\net7.0\refint\PsuedoStack.dll
+C:\Users\tcrawford\source\repos\C Sharp Intermediate\PsuedoStack\PsuedoStack\obj\Debug\net7.0\PsuedoStack.pdb
+C:\Users\tcrawford\source\repos\C Sharp Intermediate\PsuedoStack\PsuedoStack\obj\Debug\net7.0\PsuedoStack.genruntimeconfig.cache
+C:\Users\tcrawford\source\repos\C Sharp Intermediate\PsuedoStack\PsuedoStack\obj\Debug\net7.0\ref\PsuedoStack.dll

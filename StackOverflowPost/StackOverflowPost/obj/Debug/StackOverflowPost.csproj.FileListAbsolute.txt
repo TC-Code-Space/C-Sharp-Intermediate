@@ -1,0 +1,7 @@
+C:\Users\tcrawford\source\repos\C Sharp Intermediate\StackOverflowPost\StackOverflowPost\bin\Debug\StackOverflowPost.exe.config
+C:\Users\tcrawford\source\repos\C Sharp Intermediate\StackOverflowPost\StackOverflowPost\bin\Debug\StackOverflowPost.exe
+C:\Users\tcrawford\source\repos\C Sharp Intermediate\StackOverflowPost\StackOverflowPost\bin\Debug\StackOverflowPost.pdb
+C:\Users\tcrawford\source\repos\C Sharp Intermediate\StackOverflowPost\StackOverflowPost\obj\Debug\StackOverflowPost.csproj.AssemblyReference.cache
+C:\Users\tcrawford\source\repos\C Sharp Intermediate\StackOverflowPost\StackOverflowPost\obj\Debug\StackOverflowPost.csproj.CoreCompileInputs.cache
+C:\Users\tcrawford\source\repos\C Sharp Intermediate\StackOverflowPost\StackOverflowPost\obj\Debug\StackOverflowPost.exe
+C:\Users\tcrawford\source\repos\C Sharp Intermediate\StackOverflowPost\StackOverflowPost\obj\Debug\StackOverflowPost.pdb

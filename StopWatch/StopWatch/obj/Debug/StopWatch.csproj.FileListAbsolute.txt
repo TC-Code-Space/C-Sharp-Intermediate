@@ -1,0 +1,7 @@
+C:\Users\tcrawford\source\repos\C Sharp Intermediate\StopWatch\StopWatch\bin\Debug\StopWatch.exe.config
+C:\Users\tcrawford\source\repos\C Sharp Intermediate\StopWatch\StopWatch\bin\Debug\StopWatch.exe
+C:\Users\tcrawford\source\repos\C Sharp Intermediate\StopWatch\StopWatch\bin\Debug\StopWatch.pdb
+C:\Users\tcrawford\source\repos\C Sharp Intermediate\StopWatch\StopWatch\obj\Debug\StopWatch.csproj.AssemblyReference.cache
+C:\Users\tcrawford\source\repos\C Sharp Intermediate\StopWatch\StopWatch\obj\Debug\StopWatch.csproj.CoreCompileInputs.cache
+C:\Users\tcrawford\source\repos\C Sharp Intermediate\StopWatch\StopWatch\obj\Debug\StopWatch.exe
+C:\Users\tcrawford\source\repos\C Sharp Intermediate\StopWatch\StopWatch\obj\Debug\StopWatch.pdb
